@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Signatie';
+    src: url('Signatie.eot');
+    src: url('Signatie.eot?#iefix') format('embedded-opentype'),
+        url('Signatie.woff2') format('woff2'),
+        url('Signatie.woff') format('woff'),
+        url('Signatie.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Rosie Brown Serif Demo';
+    src: url('RosieBrownSerifDemo.eot');
+    src: url('RosieBrownSerifDemo.eot?#iefix') format('embedded-opentype'),
+        url('RosieBrownSerifDemo.woff2') format('woff2'),
+        url('RosieBrownSerifDemo.woff') format('woff'),
+        url('RosieBrownSerifDemo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
